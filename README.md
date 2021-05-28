@@ -12,3 +12,4 @@ https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
 https://pythonprogramming.net/loading-keras-model-tensorflowjs-tutorial/
+https://www.youtube.com/watch?v=f8ed_xAjkOg
